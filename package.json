@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.2",
+    "colors": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "discord": "^0.8.2",
+    "discord.js": "^13.12.0",
+    "dotenv": "^16.0.3",
+    "keyv": "^4.5.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.7.0"
+  },
+  "name": "bot-sms",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
